@@ -11,7 +11,7 @@ Download Full Size HD profile picture of instagram profile. I have provided the 
 # Usage
 
 Include this javascript file in your project
-
+File size is 1.16 KB
 ```html
 <script src="https://tmibvishal.github.io/instaDpDownloader/instaHDFullImage.js"></script>
 ```
@@ -47,7 +47,7 @@ hdImage("username", success_function , username_not_found_error_function);
                     imgParent.append(value);
                 },function(){console.log("Error")});
             });
-            // hdImage("username", success_function , username_not_found_error_function; hdImage function will work like this
+            // hdImage("username", success_function , username_not_found_error_function); hdImage function will work like this
         });
     </script>
 </head>
