@@ -1,5 +1,5 @@
 # instaFullHdDpDownloader
-Download Full Size HD profile picture of instagram profile
+Download Full Size HD profile picture of instagram profile. I have provided the algorithm that I have used and also the Usage just in case you want to directly use my javascript file for your web apps and android apps.
 
 # Algorith For the Program
 
@@ -20,7 +20,7 @@ Include this javascript file in your project
 
 Call hdImage with these parameters
 ```javascript
-hdImage("username", success_function , username_not_found_error_function;
+hdImage("username", success_function , username_not_found_error_function);
 ```
 
 
