@@ -34,8 +34,6 @@ hdImage("username", success_function , username_not_found_error_function);
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Insta Full DP Viewer</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://tmibvishal.github.io/instaDpDownloader/instaHDFullImage.js"></script>
     <script>
@@ -55,13 +53,9 @@ hdImage("username", success_function , username_not_found_error_function);
     </script>
 </head>
 <body>
-<main>
-    <p>
         <input type="text" id="textBox">
         <input type="submit" id="btnSubmit"></input>
         <div id="imgParent"></div>
-    </p>
-</main>
 </body>
 </html>
 ```
